@@ -1,3 +1,4 @@
+# Writing the mean.py file
 def mean(num_list):
     #assert type(num_list) == list
     #if len(num_list) == 0:
